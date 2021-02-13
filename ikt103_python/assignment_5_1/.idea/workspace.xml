@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbd3b59a-a291-4d68-8bb0-53fcd4441cd2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../assignment_2_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_2_2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613169237926</updated>
-      <workItem from="1613169239365" duration="14750000" />
+      <workItem from="1613169239365" duration="15788000" />
     </task>
     <servers />
   </component>
